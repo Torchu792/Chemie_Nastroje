@@ -1,0 +1,828 @@
+[
+    {
+        "cesky": "vodík",
+        "latinsky": "hydrogenium",
+        "symbol": "H",
+        "protons": "1",
+        "relativni_hmotnost": "1,00797"
+    },
+    {
+        "cesky": "helium",
+        "latinsky": "helium",
+        "symbol": "He",
+        "protons": "2",
+        "relativni_hmotnost": "4,0026"
+    },
+    {
+        "cesky": "lithium",
+        "latinsky": "lithium",
+        "symbol": "Li",
+        "protons": "3",
+        "relativni_hmotnost": "6,939"
+    },
+    {
+        "cesky": "beryllium",
+        "latinsky": "beryllium",
+        "symbol": "Be",
+        "protons": "4",
+        "relativni_hmotnost": "9,0122"
+    },
+    {
+        "cesky": "bor",
+        "latinsky": "borum",
+        "symbol": "B",
+        "protons": "5",
+        "relativni_hmotnost": "10,811"
+    },
+    {
+        "cesky": "uhlík",
+        "latinsky": "carboneum",
+        "symbol": "C",
+        "protons": "6",
+        "relativni_hmotnost": "12,01115"
+    },
+    {
+        "cesky": "dusík",
+        "latinsky": "nitrogenium",
+        "symbol": "N",
+        "protons": "7",
+        "relativni_hmotnost": "14,0067"
+    },
+    {
+        "cesky": "kyslík",
+        "latinsky": "oxygenium",
+        "symbol": "O",
+        "protons": "8",
+        "relativni_hmotnost": "15,9994"
+    },
+    {
+        "cesky": "fluor",
+        "latinsky": "fluorum",
+        "symbol": "F",
+        "protons": "9",
+        "relativni_hmotnost": "18,9984"
+    },
+    {
+        "cesky": "neon",
+        "latinsky": "neon",
+        "symbol": "Ne",
+        "protons": "10",
+        "relativni_hmotnost": "20,183"
+    },
+    {
+        "cesky": "sodík",
+        "latinsky": "natrium",
+        "symbol": "Na",
+        "protons": "11",
+        "relativni_hmotnost": "22,9898"
+    },
+    {
+        "cesky": "hořčík",
+        "latinsky": "magnesium",
+        "symbol": "Mg",
+        "protons": "12",
+        "relativni_hmotnost": "24,312"
+    },
+    {
+        "cesky": "hliník",
+        "latinsky": "aluminium",
+        "symbol": "Al",
+        "protons": "13",
+        "relativni_hmotnost": "26,9815"
+    },
+    {
+        "cesky": "křemík",
+        "latinsky": "silicium",
+        "symbol": "Si",
+        "protons": "14",
+        "relativni_hmotnost": "28,086"
+    },
+    {
+        "cesky": "fosfor",
+        "latinsky": "phosphorus",
+        "symbol": "P",
+        "protons": "15",
+        "relativni_hmotnost": "30,973 8"
+    },
+    {
+        "cesky": "síra",
+        "latinsky": "sulphur",
+        "symbol": "S",
+        "protons": "16",
+        "relativni_hmotnost": "32,064"
+    },
+    {
+        "cesky": "chlor",
+        "latinsky": "chlorum",
+        "symbol": "Cl",
+        "protons": "17",
+        "relativni_hmotnost": "35,453"
+    },
+    {
+        "cesky": "argon",
+        "latinsky": "argonum",
+        "symbol": "Ar",
+        "protons": "18",
+        "relativni_hmotnost": "39,948"
+    },
+    {
+        "cesky": "draslík",
+        "latinsky": "kalium",
+        "symbol": "K",
+        "protons": "19",
+        "relativni_hmotnost": "39,102"
+    },
+    {
+        "cesky": "vápník",
+        "latinsky": "calcium",
+        "symbol": "Ca",
+        "protons": "20",
+        "relativni_hmotnost": "40,08"
+    },
+    {
+        "cesky": "skandium",
+        "latinsky": "scandium",
+        "symbol": "Sc",
+        "protons": "21",
+        "relativni_hmotnost": "44,956"
+    },
+    {
+        "cesky": "titan",
+        "latinsky": "titanium",
+        "symbol": "Ti",
+        "protons": "22",
+        "relativni_hmotnost": "47,9"
+    },
+    {
+        "cesky": "vanad",
+        "latinsky": "vanadium",
+        "symbol": "V",
+        "protons": "23",
+        "relativni_hmotnost": "50,942"
+    },
+    {
+        "cesky": "chrom",
+        "latinsky": "chromium",
+        "symbol": "Cr",
+        "protons": "24",
+        "relativni_hmotnost": "51,996"
+    },
+    {
+        "cesky": "mangan",
+        "latinsky": "manganum",
+        "symbol": "Mn",
+        "protons": "25",
+        "relativni_hmotnost": "54,938"
+    },
+    {
+        "cesky": "železo",
+        "latinsky": "ferrum",
+        "symbol": "Fe",
+        "protons": "26",
+        "relativni_hmotnost": "55,847"
+    },
+    {
+        "cesky": "kobalt",
+        "latinsky": "cobaltum",
+        "symbol": "Co",
+        "protons": "27",
+        "relativni_hmotnost": "58,933"
+    },
+    {
+        "cesky": "nikl",
+        "latinsky": "niccolum",
+        "symbol": "Ni",
+        "protons": "28",
+        "relativni_hmotnost": "58,71"
+    },
+    {
+        "cesky": "měď",
+        "latinsky": "cuprum",
+        "symbol": "Cu",
+        "protons": "29",
+        "relativni_hmotnost": "63,54"
+    },
+    {
+        "cesky": "zinek",
+        "latinsky": "zincum",
+        "symbol": "Zn",
+        "protons": "30",
+        "relativni_hmotnost": "65,37"
+    },
+    {
+        "cesky": "gallium",
+        "latinsky": "gallium",
+        "symbol": "Ga",
+        "protons": "31",
+        "relativni_hmotnost": "69,72"
+    },
+    {
+        "cesky": "germanium",
+        "latinsky": "germanium",
+        "symbol": "Ge",
+        "protons": "32",
+        "relativni_hmotnost": "72,59"
+    },
+    {
+        "cesky": "arsen",
+        "latinsky": "arsenicum",
+        "symbol": "As",
+        "protons": "33",
+        "relativni_hmotnost": "74,922"
+    },
+    {
+        "cesky": "selen",
+        "latinsky": "selenium",
+        "symbol": "Se",
+        "protons": "34",
+        "relativni_hmotnost": "78,96"
+    },
+    {
+        "cesky": "brom",
+        "latinsky": "bromum",
+        "symbol": "Br",
+        "protons": "35",
+        "relativni_hmotnost": "79,909"
+    },
+    {
+        "cesky": "krypton",
+        "latinsky": "krypton",
+        "symbol": "Kr",
+        "protons": "36",
+        "relativni_hmotnost": "83,8"
+    },
+    {
+        "cesky": "rubidium",
+        "latinsky": "rubidium",
+        "symbol": "Rb",
+        "protons": "37",
+        "relativni_hmotnost": "85,47"
+    },
+    {
+        "cesky": "stroncium",
+        "latinsky": "strontium",
+        "symbol": "Sr",
+        "protons": "38",
+        "relativni_hmotnost": "87,62"
+    },
+    {
+        "cesky": "yttrium",
+        "latinsky": "yttrium",
+        "symbol": "Y",
+        "protons": "39",
+        "relativni_hmotnost": "88,905"
+    },
+    {
+        "cesky": "zirkonium",
+        "latinsky": "zirconium",
+        "symbol": "Zr",
+        "protons": "40",
+        "relativni_hmotnost": "91,22"
+    },
+    {
+        "cesky": "niob",
+        "latinsky": "niobium",
+        "symbol": "Nb",
+        "protons": "41",
+        "relativni_hmotnost": "92,906"
+    },
+    {
+        "cesky": "molybden",
+        "latinsky": "molybdaenum",
+        "symbol": "Mo",
+        "protons": "42",
+        "relativni_hmotnost": "95,94"
+    },
+    {
+        "cesky": "technecium",
+        "latinsky": "technetium",
+        "symbol": "Tc",
+        "protons": "43",
+        "relativni_hmotnost": "97,9072"
+    },
+    {
+        "cesky": "ruthenium",
+        "latinsky": "ruthenium",
+        "symbol": "Ru",
+        "protons": "44",
+        "relativni_hmotnost": "101,107"
+    },
+    {
+        "cesky": "rhodium",
+        "latinsky": "rhodium",
+        "symbol": "Rh",
+        "protons": "45",
+        "relativni_hmotnost": "102,905"
+    },
+    {
+        "cesky": "palladium",
+        "latinsky": "palladium",
+        "symbol": "Pd",
+        "protons": "46",
+        "relativni_hmotnost": "106,4"
+    },
+    {
+        "cesky": "stříbro",
+        "latinsky": "argentum",
+        "symbol": "Ag",
+        "protons": "47",
+        "relativni_hmotnost": "107,87"
+    },
+    {
+        "cesky": "kadmium",
+        "latinsky": "cadmium",
+        "symbol": "Cd",
+        "protons": "48",
+        "relativni_hmotnost": "112,4"
+    },
+    {
+        "cesky": "indium",
+        "latinsky": "indium",
+        "symbol": "In",
+        "protons": "49",
+        "relativni_hmotnost": "114,82"
+    },
+    {
+        "cesky": "cín",
+        "latinsky": "stannum",
+        "symbol": "Sn",
+        "protons": "50",
+        "relativni_hmotnost": "118,69"
+    },
+    {
+        "cesky": "antimon",
+        "latinsky": "stibium",
+        "symbol": "Sb",
+        "protons": "51",
+        "relativni_hmotnost": "121,75"
+    },
+    {
+        "cesky": "tellur",
+        "latinsky": "tellurium",
+        "symbol": "Te",
+        "protons": "52",
+        "relativni_hmotnost": "127,6"
+    },
+    {
+        "cesky": "jod",
+        "latinsky": "iodum",
+        "symbol": "I",
+        "protons": "53",
+        "relativni_hmotnost": "126,904"
+    },
+    {
+        "cesky": "xenon",
+        "latinsky": "xenon",
+        "symbol": "Xe",
+        "protons": "54",
+        "relativni_hmotnost": "131,3"
+    },
+    {
+        "cesky": "cesium",
+        "latinsky": "caesium",
+        "symbol": "Cs",
+        "protons": "55",
+        "relativni_hmotnost": "132,905"
+    },
+    {
+        "cesky": "baryum",
+        "latinsky": "barium",
+        "symbol": "Ba",
+        "protons": "56",
+        "relativni_hmotnost": "137,34"
+    },
+    {
+        "cesky": "lanthan",
+        "latinsky": "lanthanum",
+        "symbol": "La",
+        "protons": "57",
+        "relativni_hmotnost": "138,91"
+    },
+    {
+        "cesky": "cer",
+        "latinsky": "cerium",
+        "symbol": "Ce",
+        "protons": "58",
+        "relativni_hmotnost": "140,12"
+    },
+    {
+        "cesky": "praseodym",
+        "latinsky": "praseodymium",
+        "symbol": "Pr",
+        "protons": "59",
+        "relativni_hmotnost": "140,907"
+    },
+    {
+        "cesky": "neodym",
+        "latinsky": "neodymium",
+        "symbol": "Nd",
+        "protons": "60",
+        "relativni_hmotnost": "144,24"
+    },
+    {
+        "cesky": "promethium",
+        "latinsky": "promethium",
+        "symbol": "Pm",
+        "protons": "61",
+        "relativni_hmotnost": "145"
+    },
+    {
+        "cesky": "samarium",
+        "latinsky": "samarium",
+        "symbol": "Sm",
+        "protons": "62",
+        "relativni_hmotnost": "150,35"
+    },
+    {
+        "cesky": "europium",
+        "latinsky": "europium",
+        "symbol": "Eu",
+        "protons": "63",
+        "relativni_hmotnost": "151,964"
+    },
+    {
+        "cesky": "gadolinium",
+        "latinsky": "gadolinium",
+        "symbol": "Gd",
+        "protons": "64",
+        "relativni_hmotnost": "157,25"
+    },
+    {
+        "cesky": "terbium",
+        "latinsky": "terbium",
+        "symbol": "Tb",
+        "protons": "65",
+        "relativni_hmotnost": "158,924"
+    },
+    {
+        "cesky": "dysprosium",
+        "latinsky": "dysprosium",
+        "symbol": "Dy",
+        "protons": "66",
+        "relativni_hmotnost": "162,5"
+    },
+    {
+        "cesky": "holmium",
+        "latinsky": "holmium",
+        "symbol": "Ho",
+        "protons": "67",
+        "relativni_hmotnost": "164,93"
+    },
+    {
+        "cesky": "erbium",
+        "latinsky": "erbium",
+        "symbol": "Er",
+        "protons": "68",
+        "relativni_hmotnost": "167,26"
+    },
+    {
+        "cesky": "thulium",
+        "latinsky": "thulium",
+        "symbol": "Tm",
+        "protons": "69",
+        "relativni_hmotnost": "168,934"
+    },
+    {
+        "cesky": "ytterbium",
+        "latinsky": "ytterbium",
+        "symbol": "Yb",
+        "protons": "70",
+        "relativni_hmotnost": "173,04"
+    },
+    {
+        "cesky": "lutecium",
+        "latinsky": "lutetium",
+        "symbol": "Lu",
+        "protons": "71",
+        "relativni_hmotnost": "174,97"
+    },
+    {
+        "cesky": "hafnium",
+        "latinsky": "hafnium",
+        "symbol": "Hf",
+        "protons": "72",
+        "relativni_hmotnost": "178,49"
+    },
+    {
+        "cesky": "tantal",
+        "latinsky": "tantalum",
+        "symbol": "Ta",
+        "protons": "73",
+        "relativni_hmotnost": "180,948"
+    },
+    {
+        "cesky": "wolfram",
+        "latinsky": "wolframium",
+        "symbol": "W",
+        "protons": "74",
+        "relativni_hmotnost": "183,85"
+    },
+    {
+        "cesky": "rhenium",
+        "latinsky": "rhenium",
+        "symbol": "Re",
+        "protons": "75",
+        "relativni_hmotnost": "186,2"
+    },
+    {
+        "cesky": "osmium",
+        "latinsky": "osmium",
+        "symbol": "Os",
+        "protons": "76",
+        "relativni_hmotnost": "190,2"
+    },
+    {
+        "cesky": "iridium",
+        "latinsky": "iridium",
+        "symbol": "Ir",
+        "protons": "77",
+        "relativni_hmotnost": "192,2"
+    },
+    {
+        "cesky": "platina",
+        "latinsky": "platinum",
+        "symbol": "Pt",
+        "protons": "78",
+        "relativni_hmotnost": "195,09"
+    },
+    {
+        "cesky": "zlato",
+        "latinsky": "aurum",
+        "symbol": "Au",
+        "protons": "79",
+        "relativni_hmotnost": "196,967"
+    },
+    {
+        "cesky": "rtuť",
+        "latinsky": "hydrargyrum",
+        "symbol": "Hg",
+        "protons": "80",
+        "relativni_hmotnost": "200,59"
+    },
+    {
+        "cesky": "thallium",
+        "latinsky": "thallium",
+        "symbol": "Tl",
+        "protons": "81",
+        "relativni_hmotnost": "204,37"
+    },
+    {
+        "cesky": "olovo",
+        "latinsky": "plumbum",
+        "symbol": "Pb",
+        "protons": "82",
+        "relativni_hmotnost": "207,19"
+    },
+    {
+        "cesky": "bismut",
+        "latinsky": "bismuthum",
+        "symbol": "Bi",
+        "protons": "83",
+        "relativni_hmotnost": "208,98"
+    },
+    {
+        "cesky": "polonium",
+        "latinsky": "polonium",
+        "symbol": "Po",
+        "protons": "84",
+        "relativni_hmotnost": "208,9824"
+    },
+    {
+        "cesky": "astat",
+        "latinsky": "astatium",
+        "symbol": "At",
+        "protons": "85",
+        "relativni_hmotnost": "209,9871"
+    },
+    {
+        "cesky": "radon",
+        "latinsky": "radon",
+        "symbol": "Rn",
+        "protons": "86",
+        "relativni_hmotnost": "222,0176"
+    },
+    {
+        "cesky": "francium",
+        "latinsky": "francium",
+        "symbol": "Fr",
+        "protons": "87",
+        "relativni_hmotnost": "223,0197"
+    },
+    {
+        "cesky": "radium",
+        "latinsky": "radium",
+        "symbol": "Ra",
+        "protons": "88",
+        "relativni_hmotnost": "226,0254"
+    },
+    {
+        "cesky": "aktinium",
+        "latinsky": "actinium",
+        "symbol": "Ac",
+        "protons": "89",
+        "relativni_hmotnost": "227,0277"
+    },
+    {
+        "cesky": "thorium",
+        "latinsky": "thorium",
+        "symbol": "Th",
+        "protons": "90",
+        "relativni_hmotnost": "232,0381"
+    },
+    {
+        "cesky": "protaktinium",
+        "latinsky": "protactinium",
+        "symbol": "Pa",
+        "protons": "91",
+        "relativni_hmotnost": "231,0359"
+    },
+    {
+        "cesky": "uran",
+        "latinsky": "uranium",
+        "symbol": "U",
+        "protons": "92",
+        "relativni_hmotnost": "-238"
+    },
+    {
+        "cesky": "neptunium",
+        "latinsky": "neptunium",
+        "symbol": "Np",
+        "protons": "93",
+        "relativni_hmotnost": "237,0482"
+    },
+    {
+        "cesky": "plutonium",
+        "latinsky": "plutonium",
+        "symbol": "Pu",
+        "protons": "94",
+        "relativni_hmotnost": "244,0642"
+    },
+    {
+        "cesky": "americium",
+        "latinsky": "americium",
+        "symbol": "Am",
+        "protons": "95",
+        "relativni_hmotnost": "243,0614"
+    },
+    {
+        "cesky": "curium",
+        "latinsky": "curium",
+        "symbol": "Cm",
+        "protons": "96",
+        "relativni_hmotnost": "247,0704"
+    },
+    {
+        "cesky": "berkelium",
+        "latinsky": "berkelium",
+        "symbol": "Bk",
+        "protons": "97",
+        "relativni_hmotnost": "247,0703"
+    },
+    {
+        "cesky": "kalifornium",
+        "latinsky": "californium",
+        "symbol": "Cf",
+        "protons": "98",
+        "relativni_hmotnost": "251,0796"
+    },
+    {
+        "cesky": "einsteinium",
+        "latinsky": "einsteinium",
+        "symbol": "Es",
+        "protons": "99",
+        "relativni_hmotnost": "252,0830"
+    },
+    {
+        "cesky": "fermium",
+        "latinsky": "fermium",
+        "symbol": "Fm",
+        "protons": "100",
+        "relativni_hmotnost": "257,0951"
+    },
+    {
+        "cesky": "mendelevium",
+        "latinsky": "mendelevium",
+        "symbol": "Md",
+        "protons": "101",
+        "relativni_hmotnost": "258,0984"
+    },
+    {
+        "cesky": "nobelium",
+        "latinsky": "nobelium",
+        "symbol": "No",
+        "protons": "102",
+        "relativni_hmotnost": "259,1010"
+    },
+    {
+        "cesky": "lawrencium",
+        "latinsky": "lawrencium",
+        "symbol": "Lr",
+        "protons": "103",
+        "relativni_hmotnost": "262,1097"
+    },
+    {
+        "cesky": "rutherfordium",
+        "latinsky": "rutherfordium",
+        "symbol": "Rf",
+        "protons": "104",
+        "relativni_hmotnost": "261,1088"
+    },
+    {
+        "cesky": "dubnium",
+        "latinsky": "dubnium",
+        "symbol": "Db",
+        "protons": "105",
+        "relativni_hmotnost": "262,1144"
+    },
+    {
+        "cesky": "seaborgium",
+        "latinsky": "seaborgium",
+        "symbol": "Sg",
+        "protons": "106",
+        "relativni_hmotnost": "263,1186"
+    },
+    {
+        "cesky": "bohrium",
+        "latinsky": "bohrium",
+        "symbol": "Bh",
+        "protons": "107",
+        "relativni_hmotnost": "264,12"
+    },
+    {
+        "cesky": "hassium",
+        "latinsky": "hassium",
+        "symbol": "Hs",
+        "protons": "108",
+        "relativni_hmotnost": "265,1306"
+    },
+    {
+        "cesky": "meitnerium",
+        "latinsky": "meitnerium",
+        "symbol": "Mt",
+        "protons": "109",
+        "relativni_hmotnost": "268,1388"
+    },
+    {
+        "cesky": "darmstadtium",
+        "latinsky": "darmstadtium",
+        "symbol": "Ds",
+        "protons": "110",
+        "relativni_hmotnost": "271"
+    },
+    {
+        "cesky": "roentgenium",
+        "latinsky": "roentgenium",
+        "symbol": "Rg",
+        "protons": "111",
+        "relativni_hmotnost": "272"
+    },
+    {
+        "cesky": "kopernicium",
+        "latinsky": "copernicium",
+        "symbol": "Cn",
+        "protons": "112",
+        "relativni_hmotnost": "285"
+    },
+    {
+        "cesky": "nihonium",
+        "latinsky": "nihonium",
+        "symbol": "Nh",
+        "protons": "113",
+        "relativni_hmotnost": "284,18"
+    },
+    {
+        "cesky": "flerovium",
+        "latinsky": "flerovium",
+        "symbol": "Fl",
+        "protons": "114",
+        "relativni_hmotnost": "289"
+    },
+    {
+        "cesky": "moscovium",
+        "latinsky": "moscovium",
+        "symbol": "Mc",
+        "protons": "115",
+        "relativni_hmotnost": "288,19"
+    },
+    {
+        "cesky": "livermorium",
+        "latinsky": "livermorium",
+        "symbol": "Lv",
+        "protons": "116",
+        "relativni_hmotnost": "283"
+    },
+    {
+        "cesky": "tennessin",
+        "latinsky": "tennessine",
+        "symbol": "Ts",
+        "protons": "117",
+        "relativni_hmotnost": "292,2"
+    },
+    {
+        "cesky": "oganesson",
+        "latinsky": "oganesson",
+        "symbol": "Og",
+        "protons": "118",
+        "relativni_hmotnost": "293,21"
+    }
+]
